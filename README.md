@@ -1,5 +1,5 @@
 # Call-Center-Analysis
-Analysis Using Excel
+Steps taken while Analysing data Using Excel
 - Renamed the customer city/state headers
 - Added column for Call center state using text to column and renamed
 - Checked Duplicates and blanks
