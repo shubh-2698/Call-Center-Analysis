@@ -6,3 +6,5 @@ Analysis Using Excel
 - No Duplicates found
 - Cleaned the date format from string to date
 - Filled the blanks in CSAT-Score using average of senitment score
+- Created new column for weeks and Days of month.
+- Finally Created dashboard using Pivot tables and various analysis
